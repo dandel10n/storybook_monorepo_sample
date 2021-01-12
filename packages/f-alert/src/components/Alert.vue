@@ -80,4 +80,8 @@ export default {
 .c-alert-dismiss-icon {
   height: 16px;
 }
+
+g {
+  fill: black;
+}
 </style>
