@@ -1,24 +1,14 @@
 # storybook_sample
 
+This is a basic monorepo setup to show the problem with styles overwrites in storybook dev mode when using different versions of one npm package in different components.
+
 ## Project setup
 ```
-yarn install
+yarn
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn storybook:serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
