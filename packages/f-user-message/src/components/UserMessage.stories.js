@@ -13,4 +13,4 @@ export const AlertComponent = () => ({
     `
 });
 
-AlertComponent.storyName = "f-user-message";
+AlertComponent.storyName = "Test component example";
